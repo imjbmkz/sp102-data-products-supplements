@@ -12,3 +12,4 @@ This repository contains supplemental materials for SP102 Designing and Building
 - [SP902 Supplements #1: Creating a GCP Account](https://imjbmkz.medium.com/sp902-supplements-1-creating-a-gcp-account-38f78835f6db)
 - [SP102 Supplements #2: Using JupyterLab in GCP](https://imjbmkz.medium.com/sp102-supplements-2-using-jupyterlab-in-gcp-aa2224ad0387)
 - [SP102 Supplements #3: Building Data Processing Pipeline](https://imjbmkz.medium.com/sp102-supplements-3-building-data-processing-pipeline-eb5221343b0b)
+- SP102 Supplements #4: Training ML Models in GCP (in progress)
